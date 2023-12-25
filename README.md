@@ -1,6 +1,6 @@
 # CRUD-AI-voice-bot
-AI agent that do CRUD operation on your application
+Phone Call AI agent that does CRUD operation on your application
 ## Stack use
-- python
-- twilio
+- Python
+- Twilio
 - OpenAi
