@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "twilio-run": "^3.5.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "openai": "^4.20.1"
+  }
+}
